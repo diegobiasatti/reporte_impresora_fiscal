@@ -1,7 +1,7 @@
 
 # Reporte Impresora Fiscal
 
-Programa desarrollado en C#, cuya finalidad es poder agilizar la tarea de bajar los reportes requeridos por la Afip(Argentina). 
+Programa desarrollado en C#, cuya finalidad es poder agilizar la tarea de bajar los reportes requeridos por la Afip(Argentina) en las impresoras fiscales de 2da generación. 
 
 * En el mismo se puede elegir el Año, que ya viene por defecto u otro.
 
