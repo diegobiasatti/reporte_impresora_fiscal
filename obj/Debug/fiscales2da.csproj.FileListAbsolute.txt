@@ -1,0 +1,20 @@
+D:\_Programacion\fiscales2da\bin\Debug\fiscales2da.exe
+D:\_Programacion\fiscales2da\bin\Debug\fiscales2da.pdb
+D:\_Programacion\fiscales2da\obj\Debug\fiscales2da.csprojAssemblyReference.cache
+D:\_Programacion\fiscales2da\obj\Debug\fiscales2da.Form1.resources
+D:\_Programacion\fiscales2da\obj\Debug\fiscales2da.Properties.Resources.resources
+D:\_Programacion\fiscales2da\obj\Debug\fiscales2da.csproj.GenerateResource.cache
+D:\_Programacion\fiscales2da\obj\Debug\fiscales2da.csproj.CoreCompileInputs.cache
+D:\_Programacion\fiscales2da\obj\Debug\fiscales2da.exe
+D:\_Programacion\fiscales2da\obj\Debug\fiscales2da.pdb
+D:\_Programacion\fiscales2da\bin\Debug\fiscales2da.exe.config
+C:\Users\User\Desktop\Portfolio\Reporte Impresora Fiscal\fiscales2da\bin\Debug\fiscales2da.exe.config
+C:\Users\User\Desktop\Portfolio\Reporte Impresora Fiscal\fiscales2da\bin\Debug\fiscales2da.exe
+C:\Users\User\Desktop\Portfolio\Reporte Impresora Fiscal\fiscales2da\bin\Debug\fiscales2da.pdb
+C:\Users\User\Desktop\Portfolio\Reporte Impresora Fiscal\fiscales2da\obj\Debug\fiscales2da.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Portfolio\Reporte Impresora Fiscal\fiscales2da\obj\Debug\fiscales2da.Form1.resources
+C:\Users\User\Desktop\Portfolio\Reporte Impresora Fiscal\fiscales2da\obj\Debug\fiscales2da.Properties.Resources.resources
+C:\Users\User\Desktop\Portfolio\Reporte Impresora Fiscal\fiscales2da\obj\Debug\fiscales2da.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Portfolio\Reporte Impresora Fiscal\fiscales2da\obj\Debug\fiscales2da.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Portfolio\Reporte Impresora Fiscal\fiscales2da\obj\Debug\fiscales2da.exe
+C:\Users\User\Desktop\Portfolio\Reporte Impresora Fiscal\fiscales2da\obj\Debug\fiscales2da.pdb
